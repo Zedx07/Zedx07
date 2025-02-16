@@ -5,7 +5,7 @@ Developer.OpenSourceContributor.Student
 ---------------------------------------
 
 * 🌍  I'm based in Mumbai, India
-* ✉️  You can contact me at [career.shubhamgolwal@gmail.com](mailto:career.shubhamgolwal@gmail.com)
+* ✉️  You can contact me at [shubhamgolwal123@gmail.com](mailto:shubhamgolwal123@gmail.com)
 * 🚀  I'm currently working on [Backstage Open Source Framework](http://backstage.io/)
 * 🧠  I'm learning MERN with Devops
 * 🤝  I'm open to collaborating on react/node projects
